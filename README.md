@@ -49,7 +49,7 @@
 | Variable | Top Category | Count |
 |----------|-------------|-------|
 | Age Group | 18–20 | 72 / 107 |
-| Gender | Male | 54 · Female 52 (near-equal) |
+| Gender | Male | 54 (Male) / 52 (Female) — near-equal |
 | Family Type | Nuclear Family | 77 / 107 |
 | Education Level | Undergraduate (UG) | 92 / 107 |
 | Stream | Commerce | 67 / 107 |
@@ -189,7 +189,7 @@ Correlation among numerical features: `Financial_Literacy_Rating`, `Parent_Discu
 
 ---
 
-### 1️⃣1️⃣ Final Dashboard — Pocket Money Management Summary
+### 11. Final Dashboard — Pocket Money Management Summary
 
 ![Dashboard](output_eda/11_dashboard.png)
 
